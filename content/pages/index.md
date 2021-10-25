@@ -5,7 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      Hola, soy Velia Martell y soy líder de proyecto con especialización en
+      Hola, soy Velia Martell y soy líder de proyecto con conocimientos de
+      desarrollo de software y diseño. Cuento con una especialización en
       finanzas
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
